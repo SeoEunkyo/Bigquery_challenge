@@ -32,7 +32,6 @@ WHERE
   t.start_time >= '2018-01-01'
   AND t.start_time <= '2018-12-31'
   AND t.duration_minutes > 0
-
 ```
 ![](./pics/./pics/2021-01-18-23-19-07.png)
 
